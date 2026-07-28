@@ -14,12 +14,7 @@ model = LinearRegression()
 model.fit(X, y)
 
 # Save model
-joblib.dump(model, "house_price_model.pkl")
-
-<<<<<<< HEAD
+joblib.dump(model, "house_price_model.pk
 
 
-=======
-print("humababibaisa...")
->>>>>>> feature
-print("Model saved as house_price_model.pkl")
+
