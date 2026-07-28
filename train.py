@@ -16,5 +16,5 @@ model.fit(X, y)
 # Save model
 joblib.dump(model, "house_price_model.pkl")
 
-print("Training XGBoost Model...")
+print("humababibaisa...")
 print("Model saved as house_price_model.pkl")
