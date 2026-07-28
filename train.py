@@ -16,5 +16,10 @@ model.fit(X, y)
 # Save model
 joblib.dump(model, "house_price_model.pkl")
 
-print("Training complete...")
+<<<<<<< HEAD
+
+
+=======
+print("humababibaisa...")
+>>>>>>> feature
 print("Model saved as house_price_model.pkl")
