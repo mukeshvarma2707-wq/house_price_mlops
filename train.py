@@ -17,4 +17,8 @@ model.fit(X, y)
 joblib.dump(model, "house_price_model.pkl")
 
 print("humababibaisa...")
+print("humababibaisa...")
+print("humababibaisa...")
+print("humababibaisa...")
+
 print("Model saved as house_price_model.pkl")
