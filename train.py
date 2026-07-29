@@ -14,7 +14,7 @@ model = LinearRegression()
 model.fit(X, y)
 
 # Save model
-joblib.dump(model, "house_price_model.pk
+joblib.dump(model, "house_price_model.pk")
 
 
 
